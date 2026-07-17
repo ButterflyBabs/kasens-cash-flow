@@ -2,6 +2,10 @@
 
 Professional bookkeeping services for small businesses in Denver.
 
+## Live Site
+
+**URL:** https://kasens-cash-flow-deploy.vercel.app
+
 ## About
 
 Kasen's Cash Flow is a bookkeeping business founded by Kasen, a high school senior with a passion for numbers and helping small businesses thrive. We offer comprehensive bookkeeping services including monthly bookkeeping, cleanup services, setup & training, and financial reporting.
@@ -37,6 +41,10 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## GitHub Repository
+
+https://github.com/ButterflyBabs/kasens-cash-flow
 
 ## License
 
